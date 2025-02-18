@@ -38,6 +38,7 @@
 
 .container__botao:checked~.lista-menu {
     display: block;
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
 }
 
 .container__botao:checked~label {
